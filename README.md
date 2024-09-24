@@ -10,4 +10,5 @@
 #### Aprendi sobre o que é cloud
 #### Aprendi sobre a ferramenta microsoft azure
 #### Aprendi sobre os tipos de servico em nuvem (Iaas, Paas, Saas)
+#### Aprendi a como criar e configurar uma maquina virtual
 ## Não sou bom com as palavras então espero que isso seja o suficiente
